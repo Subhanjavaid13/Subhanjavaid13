@@ -1,42 +1,73 @@
-<h1 align="center">Hi, I'm Subhan Javaid 👋</h1>
+<h1 align="center">👋 Hi, I'm Subhan Javaid</h1>
 
 <p align="center">
-  <b>A hardworking beginner Frontend Developer & C++ Programmer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer%7CReact+%7C+Next.js;Building+Interactive+Web+Apps" />
+</p>
+
+
+
+
+---
+
+## 🚀 About Me
+
+🔹 Hi! I'm **Subhan Javaid**, a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, and C++**.  
+
+🔹 I focus on crafting **modern, responsive, and high-performance web & mobile applications** with a keen eye for design and interactivity.  
+
+🔹 My key skills include:  
+- **Frontend Development** with **React.js, Next.js**  
+- **Mobile App Development** using **React Native**  
+- **Styling & UI** with **Tailwind CSS, Bootstrap**  
+- **Performance Optimization & Best Practices**  
+
+🎯 **Goal:** Build scalable, efficient, and user-friendly applications while keeping up with the latest technologies.  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 **Frontend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
+</p>
+
+### 📱 **Mobile Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</p>
+
+### 💻 **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp" />
+</p>
+
+### 🔧 **Tools & Version Control**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,expo" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-blue" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+## 🌟 Featured Projects
+
+📌 **[React Native To-Do App](https://github.com/Subhanjavaid13/React-native-todo-app)**  
+✔ A fully functional **to-do app** built with **React Native & Supabase** featuring authentication.  
+
+📌 **[Portfolio Website](https://github.com/Subhanjavaid13/portfolio)**  
+✔ My **personal portfolio** showcasing my projects, skills, and experience.  
+
+📌 **More Projects:** [GitHub Repositories](https://github.com/Subhanjavaid13?tab=repositories)  
 
 ---
 
-<p>
-  👋 Hi! I'm <b>Subhan Javaid</b>, a beginner Frontend Developer with a strong passion for building responsive and user-friendly websites, alongside knowledge in C++ programming. I'm always learning and working on improving my skills in <strong>HTML, CSS, JavaScript, C++</strong>, and more.
-</p>
-
-<p>
-  I’ve built several projects where I implemented animations, transitions, and interactive elements using modern tools like <strong>Bootstrap, Tailwind CSS, and Vite</strong>. I’m excited to continue building my skillset and exploring new challenges in both frontend development and C++ programming.
-</p>
-
-<p>
-  As a hardworking and dedicated individual, I am committed to delivering high-quality work and constantly improving. Whether it's frontend development or C++, I’m eager to take on new projects and expand my knowledge.
-</p>
+## 📫 Connect with Me
 
 <p align="center">
-  <strong>Connect with me:</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/subhanjavaid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Subhanjavaid13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:subhanjavaid5616@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:subhanjavaid5616@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
