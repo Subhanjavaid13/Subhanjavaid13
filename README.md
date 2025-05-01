@@ -54,7 +54,7 @@
 📌 **[React Native To-Do App](https://github.com/Subhanjavaid13/React-native-todo-app)**  
 ✔ A fully functional **to-do app** built with **React Native & Supabase** featuring authentication.  
 
-📌 **[Portfolio Website](https://github.com/Subhanjavaid13/portfolio)**  
+📌 **[Portfolio Website](https://subhanjavaid-dev.vercel.app/)**  
 ✔ My **personal portfolio** showcasing my projects, skills, and experience.  
 
 📌 **More Projects:** [GitHub Repositories](https://github.com/Subhanjavaid13?tab=repositories)  
