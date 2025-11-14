@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🔹 Hi! I'm **Subhan Javaid**, a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, and C++**.  
+🔹 Hi! I'm **Subhan Javaid**, a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, bigcommerce ,shopify, and C++**.  
 
 🔹 I focus on crafting **modern, responsive, and high-performance web & mobile applications** with a keen eye for design and interactivity.  
 
