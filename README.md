@@ -31,11 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
 </p>
 
-### 📱 **Mobile Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-</p>
-
 ### 💻 **Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp" />
