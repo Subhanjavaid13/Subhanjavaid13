@@ -17,7 +17,6 @@
 
 🔹 My key skills include:  
 - **Frontend Development** with **React.js, Next.js**  
-- **Mobile App Development** using **React Native**  
 - **Styling & UI** with **Tailwind CSS, Bootstrap**  
 - **Performance Optimization & Best Practices**  
 
