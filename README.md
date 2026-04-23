@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 **Frontend Development**
+### 🚀 **Software Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
 </p>
