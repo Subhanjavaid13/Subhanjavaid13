@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Subhan Javaid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer%7CReact+%7C+Next.js;Building+Interactive+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Developer%7CReact+%7C+Next.js;Building+Interactive+Web+Apps" />
 </p>
 
 
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🔹 Hi! I'm **Subhan Javaid**, a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React.js, Next.js, bigcommerce ,shopify, and C++**.  
+🔹 Hi! I'm **Subhan Javaid**, a passionate **Software Developer** with expertise in **HTML, CSS, JavaScript,,shopify , bigcommerce ,React.js, Next.js , and C++**.  
 
 🔹 I focus on crafting **modern, responsive, and high-performance web & mobile applications** with a keen eye for design and interactivity.  
 
